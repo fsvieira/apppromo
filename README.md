@@ -1,5 +1,5 @@
 # apppromo
-Proof of Concept  app promo video template
+Proof of Concept  app promo video template (https://fsvieira.github.io/apppromo/)
 
 # Motivation
 
