@@ -14,7 +14,8 @@
   },
   "scripts": {
     "dev": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html",
+    "ghpages": "parcel build index.html --public-url ./ --out-dir docs"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
