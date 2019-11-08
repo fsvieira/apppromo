@@ -1,0 +1,23 @@
+{
+  "name": "apppromo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ccapture.js": "^1.1.0",
+    "parcel-plugin-asset-copier": "^1.0.0",
+    "pixi-projection": "^0.3.5",
+    "pixi.js": "^5.2.0",
+    "recordrtc": "^5.5.8",
+    "three": "^0.110.0",
+    "webm-writer": "^0.2.4"
+  },
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "assetsPath": "node_modules/three/examples/fonts/"
+}
