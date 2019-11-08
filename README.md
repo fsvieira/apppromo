@@ -15,6 +15,7 @@ So I had the idea to try to make one.
     * Works very well with only canvas/webgl elements.
     * doesn't work if I had video.
     * Some browsers block video autoplay.
+    * recordrtc can't handle audio.
   * Next Steps:
     * [ ] Add a user interface, to edit some parts of template,
     * [ ] Try animated sprites insted of video,
